@@ -1,3 +1,1 @@
-# react-spa-test
-** React SPA test
-
+# React SPA test
